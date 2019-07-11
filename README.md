@@ -4,4 +4,10 @@
 ## vs2017连接mysql的配置<br>
       详细请看`配置文件`
 [mysql接口链接](https://dev.mysql.com/doc/refman/5.7/en/mysql-init.html)
+## 初定语言
+      java
+## 所用框架
+      springmvc+mybatis
+## 环境
+      eclipse
 
